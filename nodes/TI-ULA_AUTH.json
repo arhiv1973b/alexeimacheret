@@ -1,0 +1,29 @@
+﻿{
+    "namespace":  "Hooper",
+    "author":  "A©tor",
+    "protocol":  "JUS_COGENS_PRIORITY_PROTOCOL",
+    "version":  "v1.0.2025-10-04",
+    "node":  "TI-ULA_AUTH.json",
+    "legal_basis":  {
+                        "article_53":  "Vienna Convention on the Law of Treaties",
+                        "article_64":  "Emergence of new jus cogens",
+                        "article_60":  "Material breach and termination"
+                    },
+    "declaration":  "The ICJ 2012 decision is null and void ab initio",
+    "principles":  [
+                       "Immunity is subordinate to jus cogens",
+                       "Justice must center victims, not states"
+                   ],
+    "hash_log":  "sha256:19e2403157c7ee4463ff79c44460ce6526792d2c49236fa73d7380e2d80864a4",
+    "languages":  [
+                      "ru",
+                      "en",
+                      "fr",
+                      "de",
+                      "ar",
+                      "zh"
+                  ],
+    "encoding":  "UTF-8 with byte-level multilingual mapping",
+    "created_at_utc":  "2025-10-04T20:21:19.7878259Z",
+    "hash_inserted_at_utc":  "2025-10-04T20:21:19.8611589Z"
+}

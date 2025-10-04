@@ -1,0 +1,6 @@
+﻿# Конфигурация TIUlaMailKit (пример)
+smtp_server=
+smtp_port=587
+smtp_user=
+smtp_password=
+from_address=
