@@ -2,3 +2,5 @@
 *.secret
 *.key
 .env
+
+tiu_mailkit.secret
