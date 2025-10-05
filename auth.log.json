@@ -1,2 +1,38 @@
-{"timestamp":" 5 окт 2025 г. 10:41:44","event":"file_transfer","source":"Downloads","destination":"Hooper","filename":"Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf"}
-{"timestamp":" 5 окт 2025 г. 10:43:21","event":"TI-ULA_publish","file":"Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf","hash":"","author":"A©tor"}
+[
+  {
+    "timestamp": "2025-10-05T10:41:44+03:00",
+    "event": "file_transfer",
+    "source": "Downloads",
+    "destination": "Hooper",
+    "filename": "Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf"
+  },
+  {
+    "timestamp": "2025-10-05T10:43:21+03:00",
+    "event": "TI-ULA_publish",
+    "file": "Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf",
+    "hash": "",
+    "author": "A©tor"
+  },
+  {
+    "node": "TI-ULA_AUTH",
+    "actor": "Алексей",
+    "namespace": "Hooper",
+    "cipher": "AES-256-CBC",
+    "key_derivation": "PBKDF2",
+    "iterations": 100000,
+    "salted": true,
+    "file": "ti-ula.secret.enc",
+    "hash_file": "ti-ula.secret.hash",
+    "timestamp": "2025-10-02T20:45:00+03:00",
+    "description": "Client secret зашифрован с PBKDF2 и зафиксирован как узел авторизации TI-ULA"
+  },
+  {
+    "node": "TI-ULA_QR_fb521116",
+    "actor": "Алексей",
+    "namespace": "Hooper",
+    "file": "index.html",
+    "image": "TI-ULA_QR_fb521116.png",
+    "timestamp": "2025-10-05T14:40:00+03:00",
+    "description": "Визуальный QR-узел TI-ULA опубликован через GitHub Pages"
+  }
+]
