@@ -1,0 +1,24 @@
+{
+  "node": "TI-ULA_AUTH",
+  "commit": "dcd7031",
+  "branch": "main",
+  "author": "A©tor",
+  "timestamp": "2025-10-05T11:52:27Z",
+  "url": "https://arhiv1973b.github.io/alexeimacheret/",
+  "files": {
+    "pdf": {
+      "name": "Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf",
+      "sha256": "1cf79a80b937774646181ed768dce3cf70682bcc72e070f85c07286a8c5fd97f"
+    },
+    "html": {
+      "name": "index.html",
+      "sha256": "⟪HASH⟫"
+    }
+  },
+  "signature": {
+    "type": "architectural",
+    "by": "A©tor",
+    "method": "SHA256 + timestamp + public URL",
+    "verified": true
+  }
+}
