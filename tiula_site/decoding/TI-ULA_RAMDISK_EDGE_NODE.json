@@ -1,0 +1,12 @@
+{
+  "timestamp": " 6 окт 2025 г.  1:01:41",
+  "node": "TI-ULA_RAMDISK_EDGE_NODE",
+  "description": "Перенос кэша Edge в RAM-диск для ускорения и снижения износа SSD",
+  "source": "Default\Cache",
+  "target": "R:\EdgeCache",
+  "files": 893,
+  "size": "197.17MB",
+  "author": "A©tor",
+  "namespace": "Hooper",
+  "verified": true
+}
