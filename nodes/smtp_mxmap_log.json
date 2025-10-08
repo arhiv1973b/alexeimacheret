@@ -1,0 +1,26 @@
+{"domain":"justice.gov.md","status":"✅ MX найден","mx":"mx1.justice.gov.md.,mx2.justice.gov.md.","timestamp":"2025-10-08T20:38:13Z"}
+{"domain":"gov.md","status":"✅ MX найден","mx":"mx1.gov.md.,mx2.gov.md.","timestamp":"2025-10-08T20:38:13Z"}
+{"domain":"un.org","status":"✅ MX найден","mx":"un-org.mail.protection.outlook.com.","timestamp":"2025-10-08T20:38:13Z"}
+{"domain":"coe.int","status":"✅ MX найден","mx":"cuivre.coe.int.,neon.coe.int.","timestamp":"2025-10-08T20:38:13Z"}
+{"domain":"icj-cij.org","status":"✅ MX найден","mx":"icjcij-org0i.mail.protection.outlook.com.","timestamp":"2025-10-08T20:38:13Z"}
+{"domain":"ohchr.org","status":"✅ MX найден","mx":"ohchr-org.mail.protection.outlook.com.","timestamp":"2025-10-08T20:38:13Z"}
+{"domain":"ombudsman.europa.eu","status":"✅ MX найден","mx":"ucsgusrbp001.ep.europa.eu.,ucsgusrbp002.ep.europa.eu.,ucsgusrlp001.ep.europa.eu.,ucsgusrlp002.ep.europa.eu.","timestamp":"2025-10-08T20:38:15Z"}
+{"domain":"state.gov","status":"✅ MX найден","mx":"christopher-ew.state.gov.,stimson.state.gov.","timestamp":"2025-10-08T20:38:15Z"}
+{"domain":"yahoo.com","status":"✅ MX найден","mx":"mta5.am0.yahoodns.net.,mta6.am0.yahoodns.net.,mta7.am0.yahoodns.net.","timestamp":"2025-10-08T20:38:15Z"}
+{"domain":"gmail.com","status":"✅ MX найден","mx":"gmail-smtp-in.l.google.com.,alt1.gmail-smtp-in.l.google.com.,alt2.gmail-smtp-in.l.google.com.,alt3.gmail-smtp-in.l.google.com.,alt4.gmail-smtp-in.l.google.com.","timestamp":"2025-10-08T20:38:15Z"}
+{"domain":"hcch.net","status":"✅ MX найден","mx":"hcch-net.mail.protection.outlook.com.","timestamp":"2025-10-08T20:38:16Z"}
+{"domain":"procuratura.md","status":"✅ MX найден","mx":"mx1.gov.md.,mx2.gov.md.","timestamp":"2025-10-08T20:38:16Z"}
+{"domain":"example.com","status":"❌ Null MX — не принимает почту","mx":".","timestamp":"2025-10-08T20:38:16Z"}
+{"domain":"justice.gov.md","status":"✅ MX найден","mx":"mx1.justice.gov.md.,mx2.justice.gov.md.","timestamp":"2025-10-08T21:03:06Z"}
+{"domain":"gov.md","status":"✅ MX найден","mx":"mx1.gov.md.,mx2.gov.md.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"un.org","status":"✅ MX найден","mx":"un-org.mail.protection.outlook.com.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"coe.int","status":"✅ MX найден","mx":"cuivre.coe.int.,neon.coe.int.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"icj-cij.org","status":"✅ MX найден","mx":"icjcij-org0i.mail.protection.outlook.com.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"ohchr.org","status":"✅ MX найден","mx":"ohchr-org.mail.protection.outlook.com.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"ombudsman.europa.eu","status":"✅ MX найден","mx":"ucsgusrbp001.ep.europa.eu.,ucsgusrbp002.ep.europa.eu.,ucsgusrlp001.ep.europa.eu.,ucsgusrlp002.ep.europa.eu.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"state.gov","status":"✅ MX найден","mx":"christopher-ew.state.gov.,stimson.state.gov.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"yahoo.com","status":"✅ MX найден","mx":"mta5.am0.yahoodns.net.,mta6.am0.yahoodns.net.,mta7.am0.yahoodns.net.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"gmail.com","status":"✅ MX найден","mx":"gmail-smtp-in.l.google.com.,alt1.gmail-smtp-in.l.google.com.,alt2.gmail-smtp-in.l.google.com.,alt3.gmail-smtp-in.l.google.com.,alt4.gmail-smtp-in.l.google.com.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"hcch.net","status":"✅ MX найден","mx":"hcch-net.mail.protection.outlook.com.","timestamp":"2025-10-08T21:03:07Z"}
+{"domain":"procuratura.md","status":"✅ MX найден","mx":"mx1.gov.md.,mx2.gov.md.","timestamp":"2025-10-08T21:03:08Z"}
+{"domain":"example.com","status":"❌ Null MX — не принимает почту","mx":".","timestamp":"2025-10-08T21:03:08Z"}
