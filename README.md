@@ -6,4 +6,5 @@
 
 Документ опубликован как узел TI-ULA — акт восстановления международного правопорядка и памяти жертв.
 
-[Открыть PDF](./Memorandum_JUS_COGENS_PRIORITY_PROTOCOL (копия).подписан.pdf)
+\[Открыть PDF](./Memorandum\_JUS\_COGENS\_PRIORITY\_PROTOCOL (копия).подписан.pdf)
+
